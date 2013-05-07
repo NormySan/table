@@ -1,4 +1,4 @@
-table
+FuelPHP Table Package Readme
 ---
 
 Package for the fuelphp framework that streamlines the creation of tables with or without sorting.
